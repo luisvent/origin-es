@@ -1,0 +1,18 @@
+{
+ "version": "1.0.0-rc60.3",
+ "base": {
+  "code": "IPKE",
+  "size": 134217728,
+  "crc32": "C180A0E9"
+ },
+ "patch": {
+  "file": "Origin_HeartGold_v4.0.3_ES_v1.0.0-rc60.3.xdelta",
+  "size": 53843721,
+  "sha256": "cb987bacd417cb28310bf12c8595a13e174728bea3f41e2f9a3368e77757857a",
+  "release_url": ""
+ },
+ "target": {
+  "name": "origin_hg_es.nds",
+  "sha1": "b55fcba557681d50112a8fd2d491321a1063d35e"
+ }
+}

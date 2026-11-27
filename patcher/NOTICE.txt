@@ -1,0 +1,3 @@
+vcdiff_stream.js, xz_persist.js, worker.js: part of this site.
+sha1.umd.min.js, crc32.umd.min.js: hash-wasm, (c) Dani Biro, MIT license.
+xz.wasm: XZ Embedded (public domain), wasm build from the xz-decompress package.
